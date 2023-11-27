@@ -3,8 +3,8 @@ title: Cubos de dados para análise de séries de imagens de satélite
 author: Vinicio C. Lima
 date: Novembro, 2023
 output:
-  rmarkdown::html_document:
-    theme: readable
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
@@ -372,7 +372,7 @@ plot(join.timeseries = TRUE)
   # title(main =  list("Média da diferença mensal", "Mediana da  diferença mensal "))
 ```
 
-A média e a mediana da diferença simples mostram uma estagnação da tendência diminuição do NDVI, com o valor da média da diferença superior a mediana da diferença no mês de junho. Esse comportamento aponta para a diminuição da magnitude da taxa de mudança que pode indicar uma redução na intensidade da tendência que pode ser observada no gráfico entre os mêses de maio e junho. 
+A média e a mediana da diferença simples mostram uma estagnação da tendência diminuição do NDVI, com o valor da média da diferença superior a mediana da diferença no mês de junho. Esse comportamento aponta para a diminuição da magnitude da taxa de mudança que pode indicar uma redução na intensidade da tendência podendo ser observada no gráfico entre os mêses de Maio e Junho. 
 
 
 A mudança positiva entre no intervalo Fevereiro-Março pode ser decorrente das chuvas que ocorreram durante o período, o que não pode ser observado para o intervalo seguinte mesmo com a continuação de eventos de chuva no mês de abril. Isso poderia estar relacionado a algum 'fator externo' aos dados analisados até aqui?
@@ -399,7 +399,6 @@ month_euc_ndvi %>%  filter_pixel("NDVI > 0.7") %>%
 
 ## Análise de tendências.
 
-"A combinação de métodos estatísticos, técnicas de modelagem e análise visual pode fornecer uma compreensão mais robusta das mudanças na tendência ao longo do tempo, permitindo a identificação de diminuições na razão ou intensidade da tendência e presença de anomalias em séries temporais."
 
 continua (...)
 

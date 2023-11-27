@@ -285,10 +285,4 @@ month_euc_ndvi %>%  filter_pixel("NDVI > 0.7") %>%
 
 ## Análise de tendências.
 
-“A combinação de métodos estatísticos, técnicas de modelagem e análise
-visual pode fornecer uma compreensão mais robusta das mudanças na
-tendência ao longo do tempo, permitindo a identificação de diminuições
-na razão ou intensidade da tendência e presença de anomalias em séries
-temporais.”
-
 continua (…)

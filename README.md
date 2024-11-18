@@ -8,15 +8,18 @@
 ° No cubo de dados foi aplicado uma função redutora em uma janela móvel sobre a dimensão do tempo. Filtro de kernel da diferença simples Tt - T (t-1).
 
 
-
-<div style="text-align:center"><img src="./img/mult-array.png" /></div>
-
-
 ```
 
 Script R e relatório contendo o fluxo do procedimento
 
 ``` 
+
+
+
+<p align="center" width="100%">
+    <img width="50%" src="./img/mult-array.png"> 
+</p>
+
 
 
 #### Referências:
@@ -25,9 +28,6 @@ Appel M, Pebesma E (2019). “On-Demand Processing of Data Cubes from Satellite 
 
 Appel M, Pebesma E, Mohr M (2021). “Cloud-based processing of satellite image collections in R using STAC, COGs, and on-demand data cubes.” Blog post on r-spatial.org, https://r-spatial.org/r/2021/04/23/cloud-based-cubes.html.
 
-<p align="center" width="100%">
-    <img width="33%" src="./img/mult-array.png"> 
-</p>
 
 
 

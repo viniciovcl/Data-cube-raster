@@ -185,10 +185,7 @@ caracteristico da região para o intervalo analisado. É de se esperar que
 quanto mais próximo do auge do período seco os fatores climáticos afetem
 o metabolismo das plantas, resultando em valores menores para o NDVI.
 
-Os [dados do INMET](https://tempo.inmet.gov.br/GraficosAnuais) apontam
-para uma condição típica do clima da região, onde os máximos da
-temperatura são alcançados no inverno do hemisfério sul, coincindindo
-com os mínimos de umidade do ar e longos períodos de estiagem.
+Os [dados do INMET](https://tempo.inmet.gov.br/GraficosAnuais) apontam para uma condição típica do clima da região para o período, coincindindo com os mínimos de umidade do ar e longos períodos de estiagem.
 
 <img src="./img/estao-agua-clara-a756 (6).png" alt="Precipitação (mm) para estação Água Clara (A758)" width="60%" />
 <p class="caption">

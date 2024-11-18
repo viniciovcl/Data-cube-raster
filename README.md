@@ -17,11 +17,11 @@ Script R e relatório contendo o fluxo do procedimento
 
 
 <p align="center" width="100%">
-    <img width="60%" src="./data-cube-raster_files/figure-github_document/euc_change-1.png"> 
+    <img width="50%" src="./data-cube-raster_files/figure-github_document/euc_change-1.png"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="50%" src="./data-cube-raster_files/figure-github_document/reduce_space_change-1.png"> 
+    <img width="40%" src="./data-cube-raster_files/figure-github_document/reduce_space_change-1.png"> 
 </p>
 
 

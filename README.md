@@ -22,6 +22,14 @@ Script R e relatório contendo o fluxo do procedimento
 
 
 
+<p align="center" width="100%">
+    <img width="60%" src="./data-cube-raster_files/figure-github_document/reduce_space_change-1.png"> 
+</p>
+
+
+
+
+
 #### Referências:
 
 Appel M, Pebesma E (2019). “On-Demand Processing of Data Cubes from Satellite Image Collections with the gdalcubes Library.” Data, 4(3). https://www.mdpi.com/2306-5729/4/3/92.
